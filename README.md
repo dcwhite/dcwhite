@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - Shapeworks
   - SCIRun 
 - 🌱 I’m currently learning ...
   - Haskell
